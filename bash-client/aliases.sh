@@ -1,1 +1,2 @@
-alias gt="./get_water_arg.sh"
+alias gbev="./get_beverages_arg.sh"
+alias crbev="./create_beverage.sh"
